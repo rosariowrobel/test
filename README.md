@@ -17,18 +17,11 @@ FaceWars es la red social para los fanáticos de STAR WARS. El lugar donde los a
 
 ## 2. Planificación
 
-### Investigacion de usuario
-Se realizo una encuesta mediante la herrmienta google form que contaba con preguntas espesificas para usarios fanaticos de la saga Starwars
-![fotito_encuesta](/imagenes/preguntasform.png)
-![fotito_encuesta](/imagenes/preguntasform2.png)
-
-En ella tuvimos el resultado 
-
-![fotito_resultado](/imagenes/resultadoform.png)
-![fotito_resultado](/imagenes/resultadoform2.png)
+Sabiendo a quienes iba destinada nuestra red social, se empedo una planificación que llevo de por medio varios items, empezando por 'diagrama de flujo', 'trello', 'investigación de usuario' y 'user history'
 
 ### Diagrama de flujo
-El diagrama de flujo se empezo en papel como una idea del producto de una sesion de brainsroming del equipo 
+
+El diagrama de flujo se empezo en papel, como una idea del producto de una sesion de brainsroming del equipo 
 
 ![df_papel](/imagenes/dfpapel.jpeg)
 
@@ -36,14 +29,29 @@ Para lugo plasmar el resultado final del diagrama de flujo en invision
 
 ![df_invision](/imagenes/dfinvision.jpeg)
 
-
 ### Trello
+
 Despues de definir las prioridades de como iba a funcionar nuestra app, con la ayuda de la herramienta "Trello" organizamos las tareas, priorizarlas, distribuirlas y contar con visibilidad del estado.
 
 ![trello](/imagenes/trello.png)
 
+<https://trello.com/b/mTXXzDFF/face-wars>
+
+### Investigacion de usuario
+
+Se realizo una encuesta mediante la herramienta google form que contaba con preguntas específicas para usarios fanaticos de la saga Star Wars
+
+![fotito_encuesta](/imagenes/preguntasform.png)
+![fotito_encuesta](/imagenes/preguntasform2.png)
+
+En ella tuvimos los siguientes resultados 
+
+![fotito_resultado](/imagenes/resultadoform.png)
+![fotito_resultado](/imagenes/resultadoform2.png)
+
 ### User History
-Luego de haber realizado nuestras encuestas, implementamos las historias de usuario con respecto a los requerimientos de nuestra red social.
+
+Luego de haber realizado nuestras encuestas, implementamos las historias de usuario con respecto a los requerimientos para nuestra red social.
 
 Para todas las historias, en general, su definición de terminado son las siguientes:
 
@@ -81,7 +89,9 @@ Criterios de aceptación: El usuario pueda tener una sección para subir imagene
   
 ## 3. Prototipo
 
-Teniendo toda esta investigación e información empezamos a desarrollar FaceWars, comenzamos con el prototipo de baja fidelidad, en papel. 
+Teniendo toda esta investigación e información empezamos a desarrollar FaceWars, comenzamos con el prototipo de baja fidelidad en papel, para terminar de difinir los aspectos de diseño y funcionamiento, terminando en el prototipo final. 
+
+-Prototipo en papel se puede apreciar desde el login, hasta las diferentes vistas de la app
 
 ![fotito_prototipo_papel](/imagenes/propapel1.jpeg)
 ![fotito_prototipo_papel](/imagenes/propapel2.jpeg)
@@ -90,13 +100,13 @@ Teniendo toda esta investigación e información empezamos a desarrollar FaceWar
 
 ### Diseño
 
-Con la definición del prototipo de papel, pasamos por la parte de diseño y funcionamiento. Elegimos sus colores y siempre respetando el pedido del usuario, buscando asi su aceptación.
+Ya con la definición del prototipo de papel, pasamos por la parte de diseño y funcionamiento. Elegimos sus colores y siempre respetando el pedido del usuario, buscando asi su aceptación.
 Despues de un largo debate logramos definir su paleta de colores, que hace referencia a la pelicula 'Star Wars Episodio IV: Una Nueva Esperanza' de 1977, rompiendo el esquema del 'negro y amarillo', pero manteniendo sus características.
 
 ![paleta de colores](/imagenes/paletadecolores.jpeg)
 ![fondo](/imagenes/fondo.jpeg)
 
-Al definir los ultimos detalles, hicimo el prototipo final en alta fidelidad, con la ayuda de la herramienta figma. 
+Con los últimos detalles, hicimo el prototipo final en alta fidelidad, con la ayuda de la herramienta figma. 
 
 ![figma](/imagenes/figma.png)
 ![figma](/imagenes/figma2.png)
@@ -105,16 +115,32 @@ Al definir los ultimos detalles, hicimo el prototipo final en alta fidelidad, co
 ![figma](/imagenes/figma5.png)
 ![figma](/imagenes/figma6.png)
 
+<https://www.figma.com/proto/ML7eLzSXIPGPsZOBO3fD5T/Face-Wars?node-id=82%3A10&scaling=min-zoom>
+
 ## 4. Proceso del proyecto
 
-Comenzando el desarrollo del proyecto comand
+Comenzando a desarrollar FaceWars, lo primero que hicimos fue tomar el feedback de usuarios
 
+![feedback](/imagenes/maze.jpeg)
+![feedback](/imagenes/maze2.jpeg)
+![feedback](/imagenes/maze3.jpeg)
+![feedback](/imagenes/maze4.jpeg)
+![feedback](/imagenes/maze5.jpeg)
+![feedback](/imagenes/maze6.jpeg)
+![feedback](/imagenes/maze7.jpeg)
+![feedback](/imagenes/maze8.jpeg)
+![feedback](/imagenes/maze9.jpeg)
+![feedback](/imagenes/maze10.jpeg)
+![feedback](/imagenes/maze11.jpeg)
 
-
+Teniendo esta respuestas, lo gramos entender mejor nuestras 'fallas' y así poder mejorarlas, para que el usuario se sienta lo mas contenido posible.
 
 
 ## 8. Funcionamiento
 
+Se llego con un funcionamiento a lo planteado desde un principio, creando una herramienta eficáz, rápida, simple y llena de nostalgia para todos los fanáticos de la saga. Se logro que el usuario pueda postear, y compartir todo tema de interes. 
+
+<https://face-wars-9766e.web.app/#/>
 
 
 ## 9. Herramientas utilizadas en el proyocto
