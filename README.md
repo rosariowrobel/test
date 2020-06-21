@@ -22,7 +22,7 @@ FaceWars es la red social para los fanáticos de STAR WARS. El lugar donde los a
 
 ###Investigacion de usuario
 Se realizo una encuesta mediante la herrmienta google form que contaba con preguntas espesificas para usarios fanaticos de la saga Starwars
-![fotito_encuesta](///home/rosita/Documentos/test/test/imagenes/preguntasform.png)
+![fotito_encuesta](/imagenes/preguntasform.png)
 ![fotito_encuesta](/test/imagenes/preguntasform1.png)
 
 ###Diagrama de flujo
