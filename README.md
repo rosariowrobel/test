@@ -1,4 +1,4 @@
-# ![Tux, the Linux mascot](/assets/images/tux.png)
+# ![FACEWARS](/imagenes/facewars.jpeg)
 
 ## Índice
 
@@ -20,19 +20,23 @@ FaceWars es la red social para los fanáticos de STAR WARS. El lugar donde los a
 
 ## 2. Planificación
 
-###Investigacion de usuario
+### Investigacion de usuario
 Se realizo una encuesta mediante la herrmienta google form que contaba con preguntas espesificas para usarios fanaticos de la saga Starwars
 ![fotito_encuesta](/imagenes/preguntasform.png)
-![fotito_encuesta](/test/imagenes/preguntasform1.png)
+![fotito_encuesta](/imagenes/preguntasform1.png)
 
-###Diagrama de flujo
+En ella tuvimos el resultado 
+![fotito_encuesta](/imagenes/resultadosform.png)
+![fotito_encuesta](/imagenes/resultadosform1.png)
+
+### Diagrama de flujo
 El diagrama de flujo empezo en un papel como una idea producto de una sesion de brainsroming del equipo (foto_digrama_papel). Despues de varias horas de debate decidimos construir la figura final del prototipo por invision (fotito_del_diagrama_final_invission) 
 
-###Trello
+### Trello
 La herramienta por defecto que nos ayuda  a organizar tareas, priorizarlas, distribuirlas y contar con visibilidad del estado.
 (fotito_del_backlog)
 
-###User History
+### User History
 Luego de haber realizado nuestras encuestas, implementamos las historias de usuario con respecto a los requerimientos de nuestra red social.
 
 Para todas las historias, en general, su definición de terminado son las siguientes:
