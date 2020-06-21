@@ -8,7 +8,7 @@
 * [3. Prototipo](#3-prototipo)
 * [4. Proceso del proyecto](#4-proceso del proyecto)
 * [6. Funcionamiento](#6-funcionamiento)
-* [7. Herramientas utilizadas en el proyecto](#7-Herramientas utilizadas en el proyecto)
+* [7. Herramientas utilizadas en el proyecto](#7-herramientas utilizadas en el proyecto
 
 ***
 
@@ -144,6 +144,6 @@ Se llego con un funcionamiento a lo planteado desde un principio, creando una he
 <https://face-wars-9766e.web.app/#/>
 
 
-## 9. Herramientas utilizadas en el proyocto
+## 9. Herramientas utilizadas en el proyecto
 
 
