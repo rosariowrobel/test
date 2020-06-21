@@ -1,4 +1,5 @@
-# ![FACEWARS](/imagenes/FaceWarsTitulo.jpeg)
+# ![FACEWARS](/imagenes/logotitulo.jpeg)
+
 
 ## Índice
 
@@ -7,7 +8,7 @@
 * [3. Prototipo](#3-prototipo)
 * [4. Proceso del proyecto](#4-proceso del proyecto)
 * [6. Funcionamiento](#6-funcionamiento)
-* [7. Herramientas utilizadas en el proyocto](#7-herramientas utilizadas en el proyocto)
+* [7. Herramientas utilizadas en el proyecto](#7-Herramientas utilizadas en el proyecto)
 
 ***
 
