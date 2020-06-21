@@ -1,16 +1,14 @@
-# ![FACEWARS](/imagenes/facewars.jpeg)
+# ![FACEWARS](/imagenes/FaceWarsTitulo.jpeg)
 
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
 * [2. Planificación](#2-planificación)
-* [3. Diagrama de flujo](#3-diagrama de flujo)
-* [4. Prototipos](#4-prototipos)
-* [5. ¿De que se trata FaceWars?](#5-¿De que se trata FaceWars?)
-* [6. Proceso del proyecto](#6-proceso del proyecto
-* [7. Diseño](#7-diseño)
-* [8. Funcionamiento](#8-funcionamiento)
-* [9. Herramientas utilizadas en el proyocto](#9-herramientas utilizadas en el proyocto)
+* [3. Prototipo](#3-prototipo)
+* [4. Proceso del proyecto](#4-proceso del proyecto)
+* [5. Diseño](#5-diseño)
+* [6. Funcionamiento](#6-funcionamiento)
+* [7. Herramientas utilizadas en el proyocto](#7-herramientas utilizadas en el proyocto)
 
 ***
 
@@ -26,6 +24,7 @@ Se realizo una encuesta mediante la herrmienta google form que contaba con pregu
 ![fotito_encuesta](/imagenes/preguntasform1.png)
 
 En ella tuvimos el resultado 
+
 ![fotito_encuesta](/imagenes/resultadosform.png)
 ![fotito_encuesta](/imagenes/resultadosform1.png)
 
@@ -86,7 +85,6 @@ Al definirlo lo pasamos a un prototipo de
 
 
 
-## 5. ¿De que se trata FaceWars?
 
 
 
