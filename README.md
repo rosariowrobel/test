@@ -8,7 +8,7 @@
 * [3. Prototipo](#3-prototipo)
 * [4. Proceso del proyecto](#4-proceso del proyecto)
 * [6. Funcionamiento](#6-funcionamiento)
-* [7. Herramientas utilizadas en el proyecto](#7-herramientas utilizadas en el proyecto
+* [7. Herramientas utilizadas en el proyecto](#7-herramientas utilizadas en el proyecto)
 
 ***
 
@@ -137,13 +137,13 @@ Comenzando a desarrollar FaceWars, lo primero que hicimos fue tomar el feedback 
 Teniendo esta respuestas, lo gramos entender mejor nuestras 'fallas' y así poder mejorarlas, para que el usuario se sienta lo mas contenido posible.
 
 
-## 8. Funcionamiento
+## 6. Funcionamiento
 
 Se llego con un funcionamiento a lo planteado desde un principio, creando una herramienta eficáz, rápida, simple y llena de nostalgia para todos los fanáticos de la saga. Se logro que el usuario pueda postear, y compartir todo tema de interes. 
 
 <https://face-wars-9766e.web.app/#/>
 
 
-## 9. Herramientas utilizadas en el proyecto
+## 7. Herramientas utilizadas en el proyecto
 
 
